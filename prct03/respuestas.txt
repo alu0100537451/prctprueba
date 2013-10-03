@@ -1,0 +1,29 @@
+18.Muestre la cadena 'Hola mundo' y devuelve 
+21.En que "\t\n" realiza una tabulación y un salto de línea,por el contrario '\t\n' escribe el \t\n literalmente.
+22.El %q muestra literalmente las comillas dobles se interpreta.
+23.El %Q muestra comillas simples no se interpreta. 
+24.Es una asignación multilinea y cuando termine de poner HERE para concatenar el contenido.
+25.La diferencia del anterior es que no interpreta.  
+26.s[0,2] he
+   s[-1,1] o 
+   s[0,10] hello
+27."Hello World"
+28.muestra tres puntos
+29.Muestra 222
+30.Crea una array con cada palabra separada por comillas dobles.
+31.Interpreta el contenido de los los corchetes.
+32.No Interpreta el contenido entre corchetes.
+33.un array de 3 posiciones con nil en todas sus posiciones
+34.
+35.[[1,2],[3,4]] array bidimensional
+36.[0,2,4]
+37.>> a[1,1]
+=>["b"]
+>> a[-2,2]
+=>["d","e"]
+>> a[0..2]
+=>["a"
+>> a[0...1]
+=>
+>> a[-2..-1]
+=>
