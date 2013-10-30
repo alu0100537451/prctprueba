@@ -1,5 +1,3 @@
-#Realizado por Daura y Miguel Aurelio García González
-
 require "rspec"
 require "./fraccion.rb"
 
